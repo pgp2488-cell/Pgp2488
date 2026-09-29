@@ -1,0 +1,6 @@
+{
+  "name": "FeynmanLive - Tutor Multimodal de Presentaciones",
+  "description": "Aprende y explora presentaciones PDF con el profesor Feynman impulsado por Gemini 3.8 Live: voz en tiempo real, infografías con nanobanana y artefactos de código simultáneos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
